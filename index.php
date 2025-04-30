@@ -15,7 +15,9 @@
     <div class="alert alert-danger" role="alert">
         A simple danger alert—check it out!
     </div>
-
+    <div class="teste">
+        CSS ativo
+    </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
